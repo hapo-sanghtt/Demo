@@ -1,0 +1,41 @@
+body {
+    color: white;
+    font-family: Tahomma;
+    border: 1pt solid wheat;
+    width: 480pt;
+    height: 4130pt;
+    margin: 0pt auto;
+}
+ul {
+    margin: 0pt auto;
+    padding: 0pt;
+}
+ul li {
+    list-style: none;
+}
+#Rectangle img{
+    width: 480pt;
+    height: 266pt;
+    margin: 0pt auto;
+    margin-top: 0pt ;
+}
+#hapoERP img{
+    width: 96pt;
+    height: 29pt;
+    margin: 0pt auto;
+    font-size: 24pt;
+    margin-top: 30pt;
+    margin-left: 140pt;
+}
+#aboutUs {
+    color: rgb(40 50 56) ;
+    font-family: Roboto-Medium;
+    font-size: 12pt;
+    width: 66pt;
+    height: 16pt;
+    margin: 0pt auto;
+    margin-top: 25px;
+    
+}
+
+
